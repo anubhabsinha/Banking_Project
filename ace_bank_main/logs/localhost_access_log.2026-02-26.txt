@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [26/Feb/2026:12:26:50 +0530] "GET /C:%5CUsers%5Canubh%5Cace_bank_main HTTP/1.1" 400 796
+0:0:0:0:0:0:0:1 - - [26/Feb/2026:12:26:50 +0530] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [26/Feb/2026:12:26:53 +0530] "GET /C:%5CUsers%5Canubh%5Cace_bank_main HTTP/1.1" 400 796
+0:0:0:0:0:0:0:1 - - [26/Feb/2026:12:27:14 +0530] "GET /C:%5CUsers%5Canubh%5Cace_bank_main HTTP/1.1" 400 796
+0:0:0:0:0:0:0:1 - - [26/Feb/2026:12:27:14 +0530] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [26/Feb/2026:12:27:16 +0530] "GET /C:%5CUsers%5Canubh%5Cace_bank_main HTTP/1.1" 400 796
